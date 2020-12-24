@@ -1,0 +1,290 @@
+
+#bgImage{
+    height: 590px;
+    width: 100%
+}
+.top-left {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left1 {
+    position: absolute;
+    left: 48%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left2 {
+    position: absolute;
+    left: 54%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left3 {
+    position: absolute;
+    left: 60%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left4 {
+    position: absolute;
+    left: 66%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left5 {
+    position: absolute;
+    left: 72%;
+    font-size: 14px;
+    top: 27px;
+    color: white;
+    font-family: sans-serif
+  } 
+  .top-left6 {
+    position: absolute;
+    top: 18px;
+    left: 16%;
+    font-size: 24px;
+    color: white;
+    font-family: sans-serif
+  } 
+#btnlogout{
+    left: 78%;
+    padding: 2px;
+    width:65px;
+    font-size:14px;
+    top:22px;
+    border-radius: 15px;
+    color: black;
+    background-color: #F89E12;
+
+}
+#faqTable{
+    position: absolute;
+    top: 10%;
+    left: 23%;
+    padding: 5px;
+    height:400px;
+    width:60%;
+
+}
+#example {
+    position: absolute;
+    top: 10%;
+    left: 28%; 
+    padding: 5px;
+    background-color: white;
+    /* width: 100%;
+    height: 70%; */
+   
+ }
+ thead{
+     background-color: white;
+     background-image: linear-gradient(white,#F89E12);
+     font-size: 15px;
+     font-weight: normal;
+     text-align: center;
+    vertical-align: middle;
+ }
+ tbody{
+    background-color: #1e1e1e;
+    color: white;
+    /* height:700px */
+ 
+ }
+ /* td{
+  padding-top:15px;
+
+ } */
+ #td1a{
+    text-align:center;
+    padding:30px;
+ }
+ #td1b{
+  text-align:center;
+  padding:30px;
+  /* padding-top: 25px; */
+}
+#td1c{
+  text-align:center;
+  padding:30px;
+  padding-top: 20px;
+
+}
+#td1d{
+  text-align:center;
+  padding:30px;
+  padding-top: 20px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td1e{
+  text-align:center;
+  padding:30px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td2a{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td2b{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td2c{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td2d{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td2e{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+
+}
+.pTag{
+  font-size:11px;
+  text-align: center;
+  vertical-align: middle;
+  
+}
+#td3a{
+  font-size:14px;
+  padding-top: 20px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td3b{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td3c{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td3d{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td3e{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td4a{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td4b{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td4c{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td4d{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td4e{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+
+#td5a{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td5b{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+}
+#td5c{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td5d{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+#td5e{
+  font-size:14px;
+  text-align: center;
+  vertical-align: middle;
+
+}
+
+
+.Row1 {
+    display: table;
+    width: 55%; 
+    /* height: 55%; */
+    table-layout: fixed; 
+}
+.Column {
+    display: table-cell;
+    column-gap: 40%;
+    padding-top: 11px;
+    /* padding: 5px; */
+    /* height: 65%; */
+    text-align: center;
+    border-radius: 35px;
+}
+.options{
+    margin-top: 5px;
+    margin-left: 2%;
+  }
+  #startFooterpart{
+      color: white;
+      font-size: 15px
+
+
+  }
+  #middleFooterpart{
+      color: white;
+      font-size: 12px;
+      padding-left: 15%; 
+  }
